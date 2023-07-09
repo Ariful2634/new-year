@@ -86,7 +86,7 @@ main{
     font-size: 40px;
 }
 .positive{
-    background-image: url('images/watch.png'),url('images/gradient1.png');
+    background-image:url('images/gradient1.png'), url('images/watch.png');
     background-size: cover;
     width: 1140px;
 height: 300px;
