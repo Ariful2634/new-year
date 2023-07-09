@@ -4,8 +4,8 @@
 }
 
 .container{
-    width: 1600x;
-    height: 808px;
+    width: 205vh;
+    height: 100vh;
     background-image: url('images/banner/banner3.png'),linear-gradient(rgba(42, 10, 219, 0), rgb(132, 14, 243));
     background-size: co;
 }
@@ -33,7 +33,7 @@ padding-top: 20px;
 .parent{
     padding: 180px;
     display: flex;
-    
+    padding-right: 60px;
     flex-direction: column;
     text-align: right;
 }
