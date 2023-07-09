@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+width: 1600px;
+    height: 808px;
+    background-image: url('images/banner/banner3.png'),linear-gradient(rgba(42, 10, 219, 0), rgb(132, 14, 243));
+    background-size: co;
+}
+.headline{
+    color: #FFF;
+    font-weight: 600;
+    font-size: 65px;
+    
+    padding-top: 20px;
+    
+    
+}
+.para{
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    font-weight: 400;
+
+font-size: 16px;
+padding-top: 20px;
+
+
+}
+.parent{
+    padding: 180px;
+    display: flex;
+    
+    flex-direction: column;
+    text-align: right;
+}
+.btn{
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+.but{
+    padding-top: 20px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.per img{
+    width: 451px;
+    height: 750px;
+}
+.new{
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+}
+.my-failure{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.con{
+    width: 320px;
+    margin-bottom: 15px;
+}
+.year-failure{
+    margin-left: 130px;
+}
+.social{
+    display: flex;
+   
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 35px;
+}
+.social-contain{
+    text-align: center;
+    margin-top: 40px;
+}
+.plan{
+    font-weight: 700;
+    font-size: 40px;
+}
+.positive{
+    background-image: url('images/watch.png');
+    width: 1140px;
+height: 300px;
+margin-top: 130px;
+
+}
+.call{
+    padding: 10px 15px;
+    margin-top: 15px;
+    color: blue;
+    border-radius: 5px;
+    border: none;
+}
+.wat{
+    padding: 95px;
+}
+.keep{
+    color: #FFF;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+
+}
